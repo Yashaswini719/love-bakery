@@ -66,13 +66,4 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
 - `/admin` - admin dashboard foundation
 - `/api/reservations` - reservation submission endpoint
 
-## Next Phase
 
-If the client approves the visual direction, the next phase should add:
-
-- Supabase auth for admin login
-- Menu CRUD
-- Gallery upload and management through Cloudinary
-- Reservation dashboard
-- Settings management
-- Vercel deployment with real environment variables
